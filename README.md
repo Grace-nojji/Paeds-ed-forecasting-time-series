@@ -5,6 +5,8 @@ A time series forecasting project that predicts **28-day paediatric emergency de
 Accurate forecasting of emergency department attendances helps hospitals optimize staffing, improve patient flow, and allocate healthcare resources efficiently.
 This project develops and evaluates forecasting models to predict daily paediatric emergency attendances over a 28-day horizon using three years of historical NHS data.
 
+<img src='images/Forecast_28.png' width='500'>
+
 ---
 
 ## 📊 Dataset
