@@ -117,10 +117,3 @@ The forecasting model supports:
 ✅ Produced reliable short-term forecasts suitable for operational planning in healthcare.
 
 ---
-
-## 🚀 Future Improvements
-
-- Incorporate weather data
-- Include seasonal illness indicators
-- Compare with ARIMA, SARIMA, LSTM, and Temporal Fusion Transformer (TFT) models
-- Deploy as an interactive forecasting dashboard
